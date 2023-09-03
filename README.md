@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and Artificial Intelligence
 - 🌱 I’m always learning new skills.
 - 💞️ I’m looking to collaborate on Python projects
-- 📫 You can reach me at rad.it.consultant@gmail.com
+- 📫 You can reach me at radonino@gmail.com
 
 <!---
 RickDond/RickDond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
